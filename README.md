@@ -1,2 +1,2 @@
 # AudioServ
-LAN multi-user pc-android interface
+LAN multi-user pc-android interface. PC server program.
